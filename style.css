@@ -1,0 +1,43 @@
+@media (max-width:768px){
+    .d-flex {
+        display: flex !important;
+        flex-wrap: wrap;
+    }
+    .col-md-5 img {
+        width: 100%;
+    }
+    .container {
+       
+        width: 95% !important;
+    }
+    
+}
+@media (max-width:1068px){
+    .d-flex {
+        display: flex !important;
+        flex-wrap: wrap;
+    }
+    .col-md-5 img {
+        width: 100%;
+    }
+    .container {
+       
+        width: 95% !important;
+    }
+    
+}
+.col-md-5 img{
+    width: 100%;
+}
+.card.up-hover.shadow-lg.overflow-hidden img {
+    width: 100%;
+}
+a.text-dark.h6.m-0.text-primary-hover {
+    text-decoration: none;
+}
+.col-sm-6.col-lg-4.mb-30 {
+    margin-bottom: 25px;
+}
+.col-lg-8.mx-auto.text-center {
+    margin: 28px 0px;
+}
